@@ -1,103 +1,50 @@
-# Auris | Cybersecurity Student
+# Auris
 
-Cybersecurity student from Kaunas, Lithuania, focused on practical security, networking, homelab infrastructure, and hands-on learning.
+**Cybersecurity student from Kaunas, Lithuania**  
+Focused on networking, homelab infrastructure, CTFs, and practical security labs.
 
-I am building a portfolio around real systems instead of only theory: Proxmox, OPNsense, DNS/security services, Cloudflare Tunnels, Linux/Windows VMs, CTF writeups, and small software projects.
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat&logo=hackthebox&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Homelab-0D1117?style=flat&logo=proxmox&logoColor=E57000" />
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=flat&logo=cisco&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=FCC624" />
+</p>
 
-## Current focus
+## Focus
 
-- Network security and firewalling
-- Linux and Windows administration
-- Virtualization with Proxmox
-- DNS, tunneling, and basic infrastructure hardening
-- CTFs: OSINT, DNS forensics, web security, SQL analysis
-- Python, web development, and automation
+- Network security
+- Proxmox / OPNsense homelab
+- Linux / Windows administration
+- DNS, firewalling, tunneling
+- CTFs and security labs
+- Python / web development
 
-## Homelab
+## Lab stack
 
-I run a small x86-based homelab on a Lenovo ThinkCentre M720Q.
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-0D1117?style=flat&logo=proxmox&logoColor=E57000" />
+  <img src="https://img.shields.io/badge/OPNsense-0D1117?style=flat&logo=opnsense&logoColor=D94F00" />
+  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=flat&logo=cloudflare&logoColor=F38020" />
+  <img src="https://img.shields.io/badge/DNS-0D1117?style=flat&logo=adguard&logoColor=2EA043" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=flat&logo=windows&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=FCC624" />
+</p>
 
-Current stack:
-
-- Proxmox VE
-- OPNsense
-- Unbound DNS
-- Zenarmor
-- Cloudflare Tunnels
-- Linux and Windows virtual machines
-
-Main learning goals:
-
-- Build and document a realistic small network
-- Understand firewall rules and segmentation
-- Practice secure exposure of internal services
-- Learn troubleshooting through actual broken things, because apparently that is how IT education works
+Running a small x86 homelab on a Lenovo ThinkCentre M720Q with Proxmox, OPNsense, Unbound DNS, Cloudflare Tunnels, and Linux/Windows VMs.
 
 ## Projects
 
-### Homelab Security Lab
-Documentation-focused repository covering my Proxmox, OPNsense, DNS, tunneling, and VM setup.
+| Project | Focus |
+|---|---|
+| `homelab-security-lab` | Proxmox, OPNsense, DNS, tunnels, hardening notes |
+| `ctf-writeups` | OSINT, DNS forensics, web security, packet analysis |
+| `fuel-price-comparison-demo` | Public data, web app, database, API integration |
 
-Planned topics:
-- Network topology
-- Firewall rules
-- DNS filtering
-- Cloudflare Tunnel setup
-- Basic hardening checklist
-- Lessons learned
+## Looking for
 
-### CTF Writeups
-Writeups for practical security challenges.
-
-Focus areas:
-- OSINT
-- DNS forensics
-- Web exploitation labs
-- Packet analysis
-- Basic methodology notes
-
-### Fuel Price Comparison Demo
-Web/data project using public fuel price data.
-
-Focus areas:
-- Data ingestion
-- Database usage
-- API integration
-- Map/search functionality
-- Clean project documentation
-
-## Tools and technologies
-
-### Security / Infrastructure
-- Proxmox
-- OPNsense
-- Linux
-- Windows
-- Unbound
-- Cloudflare Tunnels
-- Wireshark
-- Nmap
-
-### Development
-- Python
-- JavaScript / TypeScript
-- Next.js
-- Supabase
-- PostgreSQL / PostGIS
-- Git
-
-## What I am looking for
-
-I am currently looking for an internship in:
-
-- Cybersecurity
-- SOC / security monitoring
-- IT infrastructure
-- Network administration
-- Cloud / systems administration
-- GRC / IT audit
+Cybersecurity / IT infrastructure / SOC / cloud / GRC internship.
 
 ## Contact
 
-- GitHub: @extasyys
-- LinkedIn: add-your-link-here
+- GitHub: `@extasyys`
+- LinkedIn: add-link-here
