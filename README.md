@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Auris 👋
 
-<!--
-**extasyys/extasyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student from Kaunas, Lithuania.
 
-Here are some ideas to get you started:
+## Focus areas
+- Network security
+- Linux / Windows administration
+- Homelab infrastructure
+- CTFs and practical security labs
+- Python and web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Homelab
+I run a small x86 Proxmox-based homelab on a Lenovo ThinkCentre M720Q, using OPNsense, DNS/security services, Cloudflare Tunnels, and Linux/Windows VMs for cybersecurity practice.
+
+## Projects
+- Homelab Security Lab
+- CTF Writeups
+- Fuel Price Comparison Demo
+- AI Plagiarism Checker Prototype
+
+## Currently looking for
+Cybersecurity / IT infrastructure / SOC / cloud / GRC internship opportunities.
