@@ -47,4 +47,3 @@ Cybersecurity / IT infrastructure / SOC / cloud / GRC internship.
 ## Contact
 
 - GitHub: `@extasyys`
-- LinkedIn: add-link-here
