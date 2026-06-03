@@ -1,4 +1,4 @@
-# Auris
+# Aurelijus ( ͡° ͜ʖ ͡°)
 
 **Cybersecurity student from Kaunas, Lithuania**  
 Focused on networking, homelab infrastructure, CTFs, and practical security labs.
